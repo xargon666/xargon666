@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&duration=3750&color=00F72B&background=11111100&vCenter=true&width=650&height=25&lines=Hi%2C+I'm+Chris+Pucknell%2C+and+this+is+my+Github!)](https://git.io/typing-svg)
 
 ## 🌱 Education
-- I learnt a lot about web development at (they have since changed their name) [futureproof](https://www.getfutureproof.co.uk/)
+- I learnt a lot about web development at [futureproof](https://www.getfutureproof.co.uk/) (now La Fosse Academy)
 
 ## 💻 Techs, Languages & Tools I have used
 
